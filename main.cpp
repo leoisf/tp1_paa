@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
 
-  int tam_instancia = 100;
+  int tam_instancia = 10000;
 
   clock_t t;
 
